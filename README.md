@@ -21,7 +21,7 @@ If you need technical support, **don't look for me. I can't!**  `@jaywangcc` �
 <h1>  
 ## Tech stack
   
-**Java，Javascript，Html，Css** 🪐 
+**Java，Javascript，HTML，CSS** 🪐 
   
 Poor traffic👇 ![Profile View Counter](https://komarev.com/ghpvc/?username=jaywangcc)
   
