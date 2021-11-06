@@ -5,7 +5,7 @@
 <h1>
 [Blog](http://www.jaywangcc.com)🏠  Building......
   
-a poor programer.
+A poor programer.
   
 If you need technical support, **don't look for me. I can't!**  `cc @jaywangcc` 😃
 <h1/>
@@ -19,7 +19,7 @@ If you need technical support, **don't look for me. I can't!**  `cc @jaywangcc` 
 <h1>  
 ## Tech stack
   
-**Java，Javascript，HTML，CSS** 🪐 
+**Java，Javascript，Html，Css** 🪐 
   
 Poor traffic👇 ![Profile View Counter](https://komarev.com/ghpvc/?username=jaywangcc)
   
