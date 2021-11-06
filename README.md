@@ -9,7 +9,7 @@
   
 A poor programer.
   
-If you need technical support, **don't look for me. I can't!**  `cc @jaywangcc` 😃
+If you need technical support, **don't look for me. I can't!**  `@jaywangcc` 😃
 <h1/>
   
 <h1>
