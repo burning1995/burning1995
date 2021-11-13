@@ -1,6 +1,6 @@
 ### Hi there, I'm  [Jay Wang][website]👋 
 
-[![Website](https://img.shields.io/website?label=jaywangcc.com&style=for-the-badge&url=http%3A%2F%2Fjaywangcc.com)](http://jaywangcc.com)
+[![Website](https://img.shields.io/website?label=jaywangcc.github.io&style=for-the-badge&url=http%3A%2F%2Fjaywangcc.github.io)](https://jaywangcc.github.io/)
 [![gihub views](https://img.shields.io/github/watchers/jaywangcc/jaywangcc?style=for-the-badge&label=github.com/jaywangcc)](https://github.com/jaywangcc)
 
 ## I'm a Single dog, Poor man, and Developer!!
@@ -34,7 +34,7 @@
 
 ---
 
-[website]: http://jaywangcc.com
+[website]: https://jaywangcc.github.io/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
