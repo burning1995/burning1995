@@ -1,4 +1,4 @@
-### Hi there, I'm Jay Wang [site][website]👋 
+### Hi there, I'm  [Jay Wang][website]👋 
 
 [![Website](https://img.shields.io/website?label=jaywangcc.com&style=for-the-badge&url=http%3A%2F%2Fjaywangcc.com)](http://jaywangcc.com)
 [![gihub views](https://img.shields.io/github/watchers/jaywangcc/jaywangcc?style=for-the-badge&label=github.com/jaywangcc)](https://github.com/jaywangcc)
