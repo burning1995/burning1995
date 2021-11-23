@@ -1,7 +1,7 @@
 ### Hi there, I'm  [Jay Wang][website]👋 
 
 [![Website](https://img.shields.io/website?label=jaywangcc.com&style=for-the-badge&url=http%3A%2F%2Fjaywangcc.com)](http://www.jaywangcc.com/)
-[![gihub views](https://img.shields.io/github/watchers/jaywangcc8/jaywangcc8?style=for-the-badge&label=github.com/jaywangcc8)](https://github.com/jaywangcc8)
+[![gihub views](https://img.shields.io/github/watchers/jaywangcc126112/jaywangcc126112?style=for-the-badge&label=github.com/jaywangcc126112)](https://github.com/jaywangcc126112)
 
 ## I'm a Single dog, Poor man, and Developer!!
 
