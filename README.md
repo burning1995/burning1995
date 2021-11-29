@@ -9,7 +9,7 @@
 - 🥅 目标: 成为地区性技术大佬,疯狂捞钱,解放思想,拥抱自由世界.
 - ⚡ 兴趣: 金钱和女人.
 
-### 技术栈&&工具:
+### 技术栈&&工具
 #### Java,Javascript,Spring,IDEA,VSCODE,Maven,Git,GitHub
 
 ---
