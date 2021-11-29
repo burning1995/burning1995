@@ -1,4 +1,4 @@
-### 嗨, 我是  [Jay Wang][website]👋 
+### 嗨, 我是  [Jay Wang][website]🤞
 
 [![Website](https://img.shields.io/website?label=jaywangcc.com&style=for-the-badge&url=http%3A%2F%2Fjaywangcc.com)](http://www.jaywangcc.com/)
 
