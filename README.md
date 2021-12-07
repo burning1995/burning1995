@@ -1,6 +1,6 @@
 ### 嗨, 我是  [Jay Wang][website]🤞
 
-[![Website](https://img.shields.io/website?label=jaywangcc.com&style=for-the-badge&url=http%3A%2F%2Fjaywangcc.com)](http://www.jaywangcc.com/)
+[![Website](https://img.shields.io/website?label=jaywangcc.com&style=for-the-badge&url=http%3A%2F%2Fjaywangcc126112.github.io)](https://jaywangcc126112.github.io)
 
 ### 穷困潦倒单身狗一枚!!!
 
@@ -13,4 +13,4 @@
 #### Java,Javascript,Spring,IDEA,VSCODE,Maven,Git,GitHub
 
 ---
-[website]: http://www.jaywangcc.com/
+[website]: https://jaywangcc126112.github.io
