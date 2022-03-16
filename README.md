@@ -1,4 +1,4 @@
-### Hi, I'm [JAYWANGCC][website]🤞
+### Hi, I'm [burning1995][website]🤞
 
 
 [![Website](https://img.shields.io/website?label=jaywangcc126112.github.io&style=for-the-badge&url=http%3A%2F%2Fjaywangcc126112.github.io)](https://jaywangcc126112.github.io)
@@ -10,4 +10,4 @@
 - ⚡ 兴趣: 金钱和女人.👧
 
 
-[website]: https://jaywangcc126112.github.io
+[website]: https://burning1995.github.io
