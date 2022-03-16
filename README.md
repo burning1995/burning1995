@@ -1,7 +1,7 @@
 ### Hi, I'm [burning1995][website]🤞
 
 
-[![Website](https://img.shields.io/website?label=jaywangcc126112.github.io&style=for-the-badge&url=http%3A%2F%2Fjaywangcc126112.github.io)](https://jaywangcc126112.github.io)
+[![Website](https://img.shields.io/website?label=burning1995.github.io&style=for-the-badge&url=http%3A%2F%2Fburning1995.github.io)](https://burning1995.github.io)
 
 
 - 🌱 学无止境,真是太特么累了. 🤣
